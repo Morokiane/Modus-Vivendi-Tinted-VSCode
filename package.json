@@ -1,0 +1,38 @@
+{
+  "name": "modus-vivendi-tinted",
+  "displayName": "Modus-Vivendi-Tinted",
+  "description": "Modus Vivendi Tinted theme for VSCode",
+  "version": "0.0.1",
+  "publisher": "morokiane",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Morokiane/Modus-Vivendi-Tinted-VSCode"
+	},
+	"icon": "icon.png",
+	"keywords": [
+		"theme",
+		"colorscheme",
+		"dark theme",
+		"BSS",
+		"moro",
+		"modus-vivendi",
+		"modus vivendi",
+		"modus-vivendi-tinted",
+		"modus vivendi tinted"
+	],
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "modus-vivendi-tinted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/modus-vivendi-tinted-color-theme.json"
+      }
+    ]
+  }
+}
