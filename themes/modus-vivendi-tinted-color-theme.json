@@ -968,7 +968,7 @@
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#8c8c8c"
       }
     },
     {
@@ -1884,7 +1884,7 @@
     "statusBar.debuggingBackground": "#ff9f62",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.debuggingBorder": "#1b1e2d",
-    "statusBar.noFolderBackground": "#484d67",
+    "statusBar.noFolderBackground": "#4a4f69",
     "statusBar.noFolderForeground": "#ffffff",
     "statusBar.noFolderBorder": "#1b1e2d",
     "statusBarItem.remoteBackground": "#f78fe7",
@@ -1908,7 +1908,7 @@
     "button.foreground": "#ffffff",
     "button.hoverBackground": "#1177bb",
     "button.secondaryForeground": "#ffffff",
-    "button.secondaryBackground": "#494d66",
+    "button.secondaryBackground": "#4a4f69",
     "button.secondaryHoverBackground": "#0d0e1c",
     "input.background": "#0d0e1c",
     "input.border": "#00000000",
