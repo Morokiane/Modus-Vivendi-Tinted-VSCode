@@ -10,7 +10,7 @@ This theme is our best effort to replicate his theme from emacs and is not perfe
 ## Preview
 
 <p align="center">
-  <img src="https://github.com/Binx-Codes/Modus-Vivendi-VSCode/raw/HEAD/Modus-Vivendi Preview.png" height="480" />
+  <img src="https://github.com/Morokiane/Modus-Vivendi-Tinted-VSCode/blob/main/Modus-Vivendi-Tinted%20Preview.png" height="480" />
 </p>
 
 **Enjoy!**
