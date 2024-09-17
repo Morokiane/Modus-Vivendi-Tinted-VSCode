@@ -2,7 +2,7 @@
   "name": "modus-vivendi-tinted",
   "displayName": "Modus-Vivendi-Tinted",
   "description": "Modus Vivendi Tinted theme for VSCode",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "publisher": "morokiane",
   "repository": {
 		"type": "git",
@@ -12,7 +12,6 @@
 	"keywords": [
 		"theme",
 		"colorscheme",
-		"dark theme",
 		"BSS",
 		"moro",
 		"modus-vivendi",
