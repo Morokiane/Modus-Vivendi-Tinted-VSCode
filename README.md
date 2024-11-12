@@ -10,7 +10,7 @@ This theme is our best effort to replicate his theme from emacs and is not perfe
 ## Preview
 
 <p align="center">
-  ![Screenshot]([https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png](https://github.com/Morokiane/Modus-Vivendi-Tinted-VSCode/blob/master/Modus-Vivendi-Tinted%20Preview.png))
+  ![Screenshot]([Modus-Vivendi-Tinted%20Preview.png))
 </p>
 
 **Enjoy!**
