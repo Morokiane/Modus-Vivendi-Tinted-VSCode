@@ -22,6 +22,12 @@
       }
     },
     {
+      "scope": "keyword.type.void.cs",
+      "settings": {
+        "foreground": "#00B3FF"
+      }
+    },
+    {
       "name": "haskell variable generic-type",
       "scope": "variable.other.generic-type.haskell",
       "settings": {
